@@ -19,7 +19,7 @@ The following libraries are required:
  				http://xerces.apache.org/xerces2-j/
  
  
- How it works in a few words? (More info in MzRTree.java)
+ How does it work in a few words? (More info in MzRTree.java)
  
  1) Create an object MzRTree from an mzXML file using the constructor 
  		
