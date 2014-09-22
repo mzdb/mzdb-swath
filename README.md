@@ -1,7 +1,7 @@
 mzdb-swath
 ==========
 
-A experimental Java library for prototyping the SWATH-MS support in mzDB.
+A Java library for prototyping the SWATH-MS support in mzDB.
 
 
 The following libraries are required:
