@@ -1,8 +1,9 @@
-mzdb-swath
+mzdb-swath (deprecated prototype)
 ==========
 
 A prototype Java library for the SWATH-MS support in mzDB.
 
+**Please note that this prototype has been deprecated => SWATH support is now available in mzdb-pwiz and mzdb-access**
 
 The following libraries are required:
 
